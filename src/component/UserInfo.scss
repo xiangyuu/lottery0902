@@ -1,0 +1,36 @@
+.container{
+  width: 1270px;
+  height: 650px;
+  .sider{
+    .nav{
+      >ul{
+        list-style-type: none;
+        >li{
+          width: 72px;
+          height: 80px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          >img{
+            width:42px;
+          }
+          >span{
+            font-size: 14px;
+          }
+        }
+      }
+    }
+    .tabs{
+
+    }
+  }
+  .main{
+    .header{
+
+    }
+    .body{
+
+    }
+  }
+}
